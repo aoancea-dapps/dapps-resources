@@ -1,4 +1,5 @@
 # Repository for DApps resources
+List of valuable resources for learning to develop dapps on the Ethereum blockchain and beyond.
 
 ## Smart contracts
 - https://www.youtube.com/watch?v=w9WLo33KfCY
