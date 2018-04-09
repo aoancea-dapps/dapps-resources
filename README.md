@@ -2,8 +2,10 @@
 
 ## Smart contracts
 - https://www.youtube.com/watch?v=w9WLo33KfCY
-- https://www.youtube.com/watch?v=TC-bDQZbXd0
+- http://solidity.readthedocs.io
 
+## Smart contracts development
+- https://www.youtube.com/watch?v=TC-bDQZbXd0
 
 ## Ethereum development
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
