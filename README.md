@@ -1,6 +1,13 @@
 ## Repository for DApps resources
 List of valuable resources for learning to develop dapps on the Ethereum blockchain and beyond.
 
+### Ethereum overview
+- https://ethereumfoundation.org/devcon2/?session=2-ethereum-in-25-minutes
+- https://www.youtube.com/watch?v=vam0ZjAy3Rw
+- https://www.youtube.com/watch?v=-_Qs0XdPpw8
+- https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb
+- https://en.wikipedia.org/wiki/Turing_completeness
+
 ### Smart contracts
 - https://www.youtube.com/watch?v=w9WLo33KfCY
 - http://solidity.readthedocs.io
