@@ -8,6 +8,7 @@ Level 1 is an overview of what exactly Ethereum is and what kind of problems it 
 - https://ethereumfoundation.org/devcon2/?session=2-ethereum-in-25-minutes
 - https://www.youtube.com/watch?v=vam0ZjAy3Rw
 - https://www.youtube.com/watch?v=-_Qs0XdPpw8
+- https://www.youtube.com/watch?v=m1ekLcfz65s
 
 #### Smart contracts
 - https://www.youtube.com/watch?v=w9WLo33KfCY
