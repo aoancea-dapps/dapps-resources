@@ -1,14 +1,14 @@
-# Repository for DApps resources
+## Repository for DApps resources
 List of valuable resources for learning to develop dapps on the Ethereum blockchain and beyond.
 
-## Smart contracts
+### Smart contracts
 - https://www.youtube.com/watch?v=w9WLo33KfCY
 - http://solidity.readthedocs.io
 
-## Smart contracts development
+### Smart contracts development
 - https://www.youtube.com/watch?v=TC-bDQZbXd0
 
-## Ethereum development
+### Ethereum development
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
 - https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269
 - https://hackernoon.com/ethereum-development-walkthrough-part-3-security-limitations-and-considerations-d482f05278b4
