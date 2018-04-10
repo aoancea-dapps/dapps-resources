@@ -29,3 +29,7 @@ Level 2 is an overview of how we can start building applications on top of Ether
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e - full series
 - https://hackernoon.com/from-a-to-z-making-the-mvp-of-a-real-dapp-on-ethereum-and-deploying-it-50c750ef0c4e
 - https://github.com/ethereum/wiki/blob/master/JavaScript-API.md
+
+## Useful blog articles
+- http://www.bullraider.com/ethereum/tutorials/342-understanding-invalid-address-error-in-dapps-or-geth-console
+- http://www.bullraider.com/ethereum/tutorials/340-event-log
