@@ -5,6 +5,7 @@ List of valuable resources for learning to develop IPFS
 Level 1 is an overview of what exactly IPFS is and what kind of problems it tries to solve and how to use it
 
 #### IPFS overview
+- https://www.youtube.com/watch?v=8CMxDNuuAiQ
 - https://www.youtube.com/watch?v=pQNZZIzLYbI
 
 
