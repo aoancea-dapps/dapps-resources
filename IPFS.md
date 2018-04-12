@@ -8,6 +8,10 @@ Level 1 is an overview of what exactly IPFS is and what kind of problems it trie
 - https://www.youtube.com/watch?v=8CMxDNuuAiQ
 - https://www.youtube.com/watch?v=pQNZZIzLYbI
 
+## Level 2
+
+#### Security
+- https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
 
 ## Useful notes
 
