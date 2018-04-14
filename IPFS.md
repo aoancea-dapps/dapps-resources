@@ -7,6 +7,7 @@ Level 1 is an overview of what exactly IPFS is and what kind of problems it trie
 #### IPFS overview
 - https://www.youtube.com/watch?v=8CMxDNuuAiQ
 - https://www.youtube.com/watch?v=pQNZZIzLYbI
+- https://www.youtube.com/watch?v=h73bd9b5pPA
 
 ## Level 2
 
