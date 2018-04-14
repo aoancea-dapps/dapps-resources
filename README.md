@@ -21,6 +21,9 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://www.youtube.com/watch?v=TC-bDQZbXd0
 - https://stackoverflow.com/questions/48368149/remix-ethereum-where-goes-the-contract
 
+#### Private Ethereum network
+- https://blog.w3k.it/create-connect-to-and-mine-on-a-private-ethereum-network-in-10-minutes-using-nodeth-1ebf8bb8cd53
+
 #### Turing completeness
 - https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb
 - https://en.wikipedia.org/wiki/Turing_completeness
