@@ -7,19 +7,19 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://www.youtube.com/watch?v=-_Qs0XdPpw8
 - https://www.youtube.com/watch?v=m1ekLcfz65s
 
-#### Smart contracts
+#### Smart contracts overview
 - https://www.youtube.com/watch?v=w9WLo33KfCY
 - http://solidity.readthedocs.io
-
-#### Smart contracts development
-- https://www.youtube.com/watch?v=TC-bDQZbXd0
-- https://stackoverflow.com/questions/48368149/remix-ethereum-where-goes-the-contract
 
 #### Ethereum development
 - https://www.ethereum.org/greeter - full series
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e - full series
 - https://hackernoon.com/from-a-to-z-making-the-mvp-of-a-real-dapp-on-ethereum-and-deploying-it-50c750ef0c4e
 - https://github.com/ethereum/wiki/blob/master/JavaScript-API.md
+
+#### Smart contracts development
+- https://www.youtube.com/watch?v=TC-bDQZbXd0
+- https://stackoverflow.com/questions/48368149/remix-ethereum-where-goes-the-contract
 
 #### Turing completeness
 - https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb
