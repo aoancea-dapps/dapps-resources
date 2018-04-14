@@ -9,8 +9,8 @@ List of valuable resources for learning to develop IPFS
 #### Security
 - https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
 
-## Useful notes
+#### Web UI
+IPFS comes with a web application that lets you explore the data you've uploaded, the peers which you're connected to and more. Below is a list of several versions of that application as data is immutable and _can't be deleted_
 
-#### Different versions of the WebUI
 - http://localhost:5001/ipfs/QmQLXHs7K98JNQdWrBB2cQLJahPhmupbDjRuH1b9ibmwVa
 - http://localhost:5001/ipfs/QmU3o9bvfenhTKhxUakbYrLDnZU7HezAVxPM6Ehjw9Xjqy
