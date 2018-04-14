@@ -18,6 +18,8 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://github.com/ethereum/wiki/blob/master/JavaScript-API.md
 
 #### Smart contracts development
+- https://github.com/ethereum/wiki/wiki/JavaScript-API
+- https://web3js.readthedocs.io/en/1.0/index.html
 - https://www.youtube.com/watch?v=TC-bDQZbXd0
 - https://stackoverflow.com/questions/48368149/remix-ethereum-where-goes-the-contract
 
