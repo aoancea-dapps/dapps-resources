@@ -22,6 +22,7 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://web3js.readthedocs.io/en/1.0/index.html
 - https://www.youtube.com/watch?v=TC-bDQZbXd0
 - https://stackoverflow.com/questions/48368149/remix-ethereum-where-goes-the-contract
+- https://ethereum.stackexchange.com/questions/3609/returning-a-struct-and-reading-via-web3/3614#3614
 
 #### Private Ethereum network
 - https://blog.w3k.it/create-connect-to-and-mine-on-a-private-ethereum-network-in-10-minutes-using-nodeth-1ebf8bb8cd53
