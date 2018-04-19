@@ -25,6 +25,7 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://ethereum.stackexchange.com/questions/3609/returning-a-struct-and-reading-via-web3/3614#3614
 - https://medium.com/@tmyjoe/dapps-how-to-get-elements-of-array-in-a-contract-c61b16b6c438
 - https://ethereum.stackexchange.com/questions/4467/initialising-structs-to-storage-variables
+- https://www.youtube.com/watch?v=v_hU0jPtLto
 
 #### Private Ethereum network
 - https://blog.w3k.it/create-connect-to-and-mine-on-a-private-ethereum-network-in-10-minutes-using-nodeth-1ebf8bb8cd53
