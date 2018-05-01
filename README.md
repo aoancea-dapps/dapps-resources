@@ -56,7 +56,6 @@ List of articles in the space
 - https://blog.infura.io/the-ethereum-hard-fork-and-infura-35c3e584fc4d
 - https://blog.infura.io/infura-debuts-new-visual-identity-as-daily-requests-top-6-billion-644c6e8f389a
 - https://blog.infura.io/not-all-api-calls-are-equal-3659c119bb6c
-
 - https://medium.com/zeonlab-blockchain-semantic-blog/interaction-with-solidity-using-web3-5a4f1a7166f3
 - https://medium.com/@tapdev/your-first-truffle-dapp-an-attempt-at-a-beginners-guide-to-the-truffle-framework-part-4-e6ecb0944c21
 - https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
@@ -81,10 +80,7 @@ List of articles in the space
 - https://medium.com/@merunasgrincalaitis/can-a-smart-contract-be-upgraded-modified-1393e9b507a
 - https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-2-7bbf15e1a953
 - https://medium.com/practical-blockchain/deploying-smart-contract-to-rinkeby-testnet-using-truffle-and-mac-os-x-8fc16ff380e2
-
 - https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e
-
 - https://blog.amr-gawish.com/building-a-production-ready-ethereum-dapp-from-idea-to-final-product-the-smart-contract-pt-3-2e117c74e61e
-
 - https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16
 - https://medium.com/s/welcome-to-blockchain/what-could-blockchain-do-for-politics-de3942d8edda
