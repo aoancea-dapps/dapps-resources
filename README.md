@@ -51,7 +51,6 @@ A list of frequently encountered errors/questions and how to solve them as a cas
 
 ## Articles
 List of articles in the space
-
 - https://blog.infura.io/say-hello-to-infura-a64f40c6f5e
 - https://blog.infura.io/infura-boomerang-architecture-6dc27ef56646
 - https://blog.infura.io/the-ethereum-hard-fork-and-infura-35c3e584fc4d
