@@ -16,6 +16,7 @@ List of valuable resources for learning to develop dapps on the Ethereum blockch
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e - full series
 - https://hackernoon.com/from-a-to-z-making-the-mvp-of-a-real-dapp-on-ethereum-and-deploying-it-50c750ef0c4e
 - https://github.com/ethereum/wiki/blob/master/JavaScript-API.md
+- https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
 #### Smart contracts development
 - https://github.com/ethereum/wiki/wiki/JavaScript-API
