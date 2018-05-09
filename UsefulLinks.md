@@ -1,0 +1,2 @@
+- https://mk0valuewalkgcar7lmc.kinstacdn.com/wp-content/uploads/2018/04/The-Intersection-Of-AI-And-Blockchain-IG.jpg
+- https://medium.com/@matteozago/why-the-net-giants-are-worried-about-the-web-3-0-44b2d3620da5
