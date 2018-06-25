@@ -85,3 +85,8 @@ List of articles in the space
 - https://blog.amr-gawish.com/building-a-production-ready-ethereum-dapp-from-idea-to-final-product-the-smart-contract-pt-3-2e117c74e61e
 - https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16
 - https://medium.com/s/welcome-to-blockchain/what-could-blockchain-do-for-politics-de3942d8edda
+
+- https://www.ey.com/gl/en/newsroom/news-releases/news-ey-and-microsoft-launch-blockchain-solution-for-content-rights-and-royalties-management-for-media-and-entertainment-industry
+- https://www.ey.com/gl/en/newsroom/news-releases/news-ey-advancing-future-of-transportation-with-launch-of-blockchain-based-integrated-mobility-platform
+- https://www.ey.com/gl/en/newsroom/news-releases/news-ey-worlds-first-blockchain-platform-for-marine-insurance-now-in-commercial-use
+- https://www.ey.com/gl/en/newsroom/news-releases/news-ey-announces-blockchain-audit-technology
